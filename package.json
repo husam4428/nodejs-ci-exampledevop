@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-ci-exampledevop",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for CI with GitHub Actions lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husam4428/nodejs-ci-exampledevop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/husam4428/nodejs-ci-exampledevop/issues"
+  },
+  "homepage": "https://github.com/husam4428/nodejs-ci-exampledevop#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
