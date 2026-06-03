@@ -60,4 +60,4 @@ jobs:
         run: | 
           echo "        Sending deployment notification to team..." 
           echo "   Subject: [AUTO] New version $(git rev-parse --short HEAD) deployed to Production" 
-          echo "   Status:    SUCCESS" 
+          echo "   Status:    SUCCESS"
